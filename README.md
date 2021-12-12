@@ -5,6 +5,7 @@ ToDo basic app  done with React-Native Expo
 My first project trying to do Notes kind of app
 
 ## Technologies
+  * JavaScript
   * React-Native
 
 ## Screenshots
