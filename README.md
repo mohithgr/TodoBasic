@@ -8,11 +8,7 @@ My first project trying to do Notes kind of app
   * React-Native
 
 ## Screenshots
-
-![](TodoBasic/screenshots/Screenshot_1.jpg)
-
-![](TodoBasic/screenshots/Screenshot_2.jpg)
-
-![](TodoBasic/screenshots/Screenshot_3.jpg)
-
-![](TodoBasic/screenshots/Screenshot_4.jpg)
+<img src="/screenshots/Screenshot_1.jpg" width=200>
+<img src="/screenshots/Screenshot_2.jpg" width=200>
+<img src="/screenshots/Screenshot_3.jpg" width=200>
+<img src="/screenshots/Screenshot_4.jpg" width=200>
